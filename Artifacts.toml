@@ -1,54 +1,54 @@
 [[MagicVLSI]]
 arch = "aarch64"
-git-tree-sha1 = "489e51c9e770607a3408e435f6e0964965235496"
+git-tree-sha1 = "adca0a88e8160ee174c71bda59eac8d39a358b0e"
 libc = "glibc"
 os = "linux"
 
     [[MagicVLSI.download]]
-    sha256 = "8f7a6c8e6a45e82014d2ff2fe877a086a88f885c9ec5c3171bdffa5ee5e777ff"
-    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.61+0/MagicVLSI.v8.3.61.aarch64-linux-gnu.tar.gz"
+    sha256 = "d0ec03da305fddf768680e0291020099bc03124cbfce08b58957ff2b05d46197"
+    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.160+0/MagicVLSI.v8.3.160.aarch64-linux-gnu.tar.gz"
 [[MagicVLSI]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1a53d6c99c862de05323699f4a73041edd4d15f4"
+git-tree-sha1 = "d60704bf79dd6b6e15aaa994207cd85d91564ef1"
 libc = "glibc"
 os = "linux"
 
     [[MagicVLSI.download]]
-    sha256 = "0ed4cfe04e8d7e19c24ea31df84344ee52169acfd4b2421b6e026394ecf9acd7"
-    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.61+0/MagicVLSI.v8.3.61.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "db1982797a3645292d62e82786a70b0243675e223efdbccf8afb0a2ebfcdc205"
+    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.160+0/MagicVLSI.v8.3.160.armv7l-linux-gnueabihf.tar.gz"
 [[MagicVLSI]]
 arch = "i686"
-git-tree-sha1 = "ac6a122bec77c2aacdc97c32c78b27029c5aa806"
+git-tree-sha1 = "0d695de524a53d8785554b635f06e7ea003229c4"
 libc = "glibc"
 os = "linux"
 
     [[MagicVLSI.download]]
-    sha256 = "f5bd80783df0a86467a9ce38667aabd5817631f6df8fa665407984d71fcf7679"
-    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.61+0/MagicVLSI.v8.3.61.i686-linux-gnu.tar.gz"
+    sha256 = "f8146e589d1ab5640b013c1f26dee08a398f47c4650cff1c5219f61f21c4a4d2"
+    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.160+0/MagicVLSI.v8.3.160.i686-linux-gnu.tar.gz"
 [[MagicVLSI]]
 arch = "powerpc64le"
-git-tree-sha1 = "092892583f5cc5bd984c6e0e1cfe0cbbbd585986"
+git-tree-sha1 = "06cd73683ea1bc80d1027a92abf015d2c8335cbe"
 libc = "glibc"
 os = "linux"
 
     [[MagicVLSI.download]]
-    sha256 = "57a3e9e6b5a8442f12fb27668cc480f7ecf747ce8bb1a2ef6d3c5b65375d4141"
-    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.61+0/MagicVLSI.v8.3.61.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "443e2c77dfe5a79693f06270188c12308fdba4a68837d617cf67f678fedefad4"
+    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.160+0/MagicVLSI.v8.3.160.powerpc64le-linux-gnu.tar.gz"
 [[MagicVLSI]]
 arch = "x86_64"
-git-tree-sha1 = "e1ab3e245273a7c13428f4120103ae59c0895373"
+git-tree-sha1 = "aefd1e47baa73817521872be32181fbe4c1d51de"
 libc = "glibc"
 os = "linux"
 
     [[MagicVLSI.download]]
-    sha256 = "6bf52659328abafd3e013f6add5d9b7a872c0b20844033a1ecfa544a103762b2"
-    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.61+0/MagicVLSI.v8.3.61.x86_64-linux-gnu.tar.gz"
+    sha256 = "1a93307be08f7665410956fb0401fe59f5e5b8fcc047f17a3d82188b0fa9ca3b"
+    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.160+0/MagicVLSI.v8.3.160.x86_64-linux-gnu.tar.gz"
 [[MagicVLSI]]
 arch = "x86_64"
-git-tree-sha1 = "5b7eff7a09e8debdd31edae0b1d0a6bd97baa6f7"
+git-tree-sha1 = "087358a96b0ff45136fe4a65571645b406025e4e"
 os = "freebsd"
 
     [[MagicVLSI.download]]
-    sha256 = "a743445217cf24f45f433cb5f4a1a57b094ac8173fdddc97abc10274350f3bb5"
-    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.61+0/MagicVLSI.v8.3.61.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "1dbea3de8b436613cce65636434f470c097d8d09c18073ae1306b0c8496a84d8"
+    url = "https://github.com/JuliaBinaryWrappers/MagicVLSI_jll.jl/releases/download/MagicVLSI-v8.3.160+0/MagicVLSI.v8.3.160.x86_64-unknown-freebsd.tar.gz"

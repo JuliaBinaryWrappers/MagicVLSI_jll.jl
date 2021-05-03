@@ -1,6 +1,6 @@
 name = "MagicVLSI_jll"
 uuid = "8553b089-32f9-510e-b5d7-7da551ec2160"
-version = "8.3.61+0"
+version = "8.3.160+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,5 +13,5 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 Tk_jll = "056b5f69-f28f-5060-ad8a-df43647a2b5c"
 
 [compat]
-JLLWrappers = "1.1.0"
+JLLWrappers = "1.2.0"
 julia = "1.0"
